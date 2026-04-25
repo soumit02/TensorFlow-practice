@@ -1,0 +1,4 @@
+important library
+- tensorflow
+- matplotlib
+- numpy
