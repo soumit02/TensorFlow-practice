@@ -2,4 +2,3 @@
 ## Use library
 - TensorFlow
 - Numpy
-- Matplotlib
